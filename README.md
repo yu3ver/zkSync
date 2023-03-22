@@ -1,4 +1,4 @@
-# zkSync
+# zkSync Era - деплойсмарт-контракта
 
 ![zkSync Era - деплойсмарт-контракта](https://miro.medium.com/v2/resize:fit:720/format:webp/0*5zGUwCCEO86p2dSw.jpeg)
 
