@@ -1,6 +1,6 @@
-# zkSync Era - деплойсмарт-контракта
+# zkSync Era - деплой смарт-контракта
 
-![zkSync Era - деплойсмарт-контракта](https://miro.medium.com/v2/resize:fit:720/format:webp/0*5zGUwCCEO86p2dSw.jpeg)
+![zkSync Era - деплой смарт-контракта](https://miro.medium.com/v2/resize:fit:720/format:webp/0*5zGUwCCEO86p2dSw.jpeg)
 
 Гайд актуален, советуем в ZkSync на своих кошельках задеплоить несколько смарт-контрактов + Добавили видео-гайд по деплою. Подробный гайд как деплоить смарт-контракт на любой платформе (MacOs, Windows) без использования серверов.
 
@@ -64,6 +64,7 @@ npx hardhat
 Выбираем Create a TypeScript project, затем “Enter” и несколько раз “У”. После чего продолжаем вводить команды:
 
 ```jsx
+mkdir greeter
 cd greeter
 npm install
 npm init -y
